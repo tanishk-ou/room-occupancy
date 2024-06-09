@@ -9,7 +9,7 @@ This project aims to estimate the number of occupants in a room using multiple n
 4. [Usage](#usage)
 5. [Models Used](#models-used)
 6. [Results](#results)
-7. [Citations/Acknowledgements](#citations/acknowledgements)
+7. [Citations/Acknowledgements](#citationsacknowledgements)
 8. [Contributing](#contributing)
 9. [License](#license)
 
