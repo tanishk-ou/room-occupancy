@@ -65,13 +65,6 @@ The Random Forest model provided the best performance with an accuracy of 99.85%
 ## Citations/Acknowledgements
 
 Singh,Adarsh Pal and Chaudhari,Sachin. (2023). Room Occupancy Estimation. UCI Machine Learning Repository. https://doi.org/10.24432/C5P605.
-@misc{misc_room_occupancy_estimation_864,
-  author       = {Singh,Adarsh Pal and Chaudhari,Sachin},
-  title        = {{Room Occupancy Estimation}},
-  year         = {2023},
-  howpublished = {UCI Machine Learning Repository},
-  note         = {{DOI}: https://doi.org/10.24432/C5P605}
-}
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
