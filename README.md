@@ -9,8 +9,9 @@ This project aims to estimate the number of occupants in a room using multiple n
 4. [Usage](#usage)
 5. [Models Used](#models-used)
 6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+7. [Citations/Acknowledgements](#citations-/-acknowledgements)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Introduction
 This project uses various machine learning algorithms to estimate room occupancy based on sensor data. The dataset includes readings from temperature sensors, light sensors, sound sensors, CO2 sensors, and Passive Infrared (PIR) sensors. The goal is to predict the number of occupants in a room (0 to 3).
@@ -60,6 +61,10 @@ Logistic Regression: 99.26%
 Gradient Boosting: 99.63%
 Random Forest: 99.85%
 The Random Forest model provided the best performance with an accuracy of 99.85%. The detailed analysis and visualizations can be found in the Jupyter notebook (notebooks/RoomOccupancyModel.ipynb).
+
+## Citations / Acknowledgements
+
+Adarsh Pal Singh, Vivek Jain, Sachin Chaudhari, Frank Alexander Kraemer, Stefan Werner and Vishal Garg, "Machine Learning-Based Occupancy Estimation Using Multivariate Sensor Nodes," in 2018 IEEE Globecom Workshops (GC Wkshps), 2018.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
